@@ -163,7 +163,7 @@ color:#666;
 }
 .log-btn{
   background:#FF9000;
-  dispaly:inline-block;
+  display:inline-block;
   width:100%;
   font-size:16px;
   height:50px;
